@@ -42,9 +42,6 @@ describe 'PrimeNumber' do
     expect(@prime.get_data(10)).to eq([2, 3, 5, 7, 11, 13, 17, 19, 23, 29])
   end
 
-  it "should return an array of primes" do
-    expect(@prime.get_data(2)).to eq([2, 3])
-  end 
 end
 
 describe 'Table' do
