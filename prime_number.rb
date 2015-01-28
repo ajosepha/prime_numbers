@@ -30,7 +30,3 @@ class PrimeNumber
   end
 
 end
-
-
-
-

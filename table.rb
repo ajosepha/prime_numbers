@@ -1,4 +1,4 @@
-require './prime.rb'
+require './prime_number.rb'
 
 class Table
 

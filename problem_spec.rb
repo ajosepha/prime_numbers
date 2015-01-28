@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative 'prime.rb'
+require_relative 'prime_number.rb'
 require_relative 'table.rb'
 
 RSpec.configure do |config|
